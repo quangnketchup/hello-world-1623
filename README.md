@@ -4,4 +4,7 @@
 * A Hello world Java project
 * ...
 
+### Screen shot
+![My source](https://github.com/quangnketchup/hello-world-1623/blob/main/images/Untitled.png)
+
 #### © Quang.Nguyen 2022
